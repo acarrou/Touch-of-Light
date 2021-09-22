@@ -1,0 +1,1 @@
+option_[options.continue_game] = "Load Game";

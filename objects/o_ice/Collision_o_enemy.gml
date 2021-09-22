@@ -1,0 +1,1 @@
+instance_create_layer(x, y-7, "Instances", o_ice_ball_hit);
